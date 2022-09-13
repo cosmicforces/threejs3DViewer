@@ -28,4 +28,4 @@ An application using the Three.js library to allow user to load model files and 
 - Support morph targets
 - ZIP file support
 
-<h2><a href="https://cosmicforces.github.io/threejs3D/" target="_blank">View the Project Online</a></h2>
+<h2><a href="https://cosmicforces.github.io/threejs3DViewer/" target="_blank">View the Project Online</a></h2>
